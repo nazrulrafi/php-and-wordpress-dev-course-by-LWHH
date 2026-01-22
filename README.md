@@ -2,13 +2,16 @@
 
 This repository contains my **practice code, projects, and learning materials** from multiple **WordPress and PHP development courses** completed at **LWHH (Learn With Hasin Hayder)**.
 
+## 📅 Course Duration
+- **2020 – 2021**
+
 ## 📚 Courses Completed
 1. **Mastering PHP**
 2. **WordPress Theme Development**
 3. **WordPress Plugin Development**
 4. **Elementor Widget Development**
 5. **WordPress Theme Conversion**
-6. **Wordpress website speed optimization and security**
+6. **WordPress Website Speed Optimization and Security**
 
 ## 📂 Repository Structure
 - Each folder represents a **course, module, or topic**
@@ -35,4 +38,4 @@ This repository contains my **practice code, projects, and learning materials** 
 
 ---
 
-📌 *This repository reflects my structured learning and practical experience in PHP and WordPress development through LWHH courses.*
+📌 *This repository reflects my structured learning and practical experience in PHP and WordPress development through LWHH courses (2020–2021).*
